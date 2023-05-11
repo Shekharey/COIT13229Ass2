@@ -1,0 +1,11 @@
+ass2\NewFireClient.class
+ass2\NewDroneClient.class
+assesment\serverass2\Drone.class
+assesment\serverass2\service\DroneFacadeREST.class
+ass2\NewFireTruckClient.class
+assesment\serverass2\Firetrucks.class
+assesment\serverass2\service\ApplicationConfig.class
+assesment\serverass2\service\FireFacadeREST.class
+assesment\serverass2\service\AbstractFacade.class
+assesment\serverass2\Fire.class
+assesment\serverass2\service\FiretrucksFacadeREST.class
