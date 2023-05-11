@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-  <Resource id="COIT13229 Ass2 2023" type="javax.sql.DataSource">#Wed May 10 14:00:24 AEST 2023
-password=password
-jdbcDriver=com.mysql.cj.jdbc.Driver
-jdbcUrl=jdbc\:mysql\://localhost\:3306/mysql?zeroDateTimeBehavior\=CONVERT_TO_NULL
-userName=root
-</Resource>
-</resources>
